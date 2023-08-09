@@ -1,1 +1,26 @@
+{
 
+    "users":[
+      {
+        "id": 1,
+        "username": "Gotensfer",
+        "state":true,
+        "deck":[10,20,30,40,50]
+        
+      },
+      {
+        "id": 2,
+        "username": "Caco",
+        "deck":[14,15,8,9,10]
+
+      },
+      {
+        "id": 3,
+        "username": "Panchuel"
+        ,
+        "deck":[2,3,1,10,29]
+      }
+    ]
+  
+
+}
